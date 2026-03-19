@@ -1,25 +1,6 @@
-# 🎮 AIPSP — "BMO but make it real"
+# AIPSP — "BMO but make it real"
 
 > A Sony PSP-E1004 rebuilt from the inside out (or hacked from the software up) into a living, talking, game-playing AI companion. Inspired by BMO from Adventure Time — a handheld console that's also your best friend.
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════╗
-║  (◕ ‿ ◕)                    ║
-║                              ║
-║   "Want to play a game?      ║
-║    Or just talk for a bit?"  ║
-║                              ║
-║  [A] Games  [B] Chat  [X] ? ║
-╚══════════════════════════════╝
-```
-
-*This is BMO. BMO lives in a PSP shell.*
-
-</div>
 
 ---
 
@@ -189,16 +170,6 @@ BMO doesn't just answer questions. BMO has:
 - The ability to **refuse to answer** if it doesn't feel like it (very BMO)
 
 BMO is not a tool. BMO is a friend who happens to also play GBA games.
-
----
-
-## 📸 Build Gallery
-*Photos and video coming once the build is complete*
-
----
-
-## 🤝 Contributing
-Solo build for now. If you're building your own BMO, open an issue — would love to see it.
 
 ---
 
